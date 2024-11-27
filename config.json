@@ -18,7 +18,7 @@
 	],
 	"user": "RLDhjZR2Dt3g3xws7tDZS3rU2.PhoneFarm",
 	"pass": "x",
-	"algo": "verus2.2",
+	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
