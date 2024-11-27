@@ -2,17 +2,20 @@
 	"pools":[
 	{
 		"name": "LuckPool",
-        	"url": "stratum+tcp://na.luckpool.net:3960",
+        	"url": "./hellminer -c stratum+tcp://eu.luckpool.net:3960 -u RLDhjZR2Dt3g3xws7tDZS3rU2SKYxwQuTD.phoneFarm -p x
+",
 		"timeout": 150
 	},
 	{
 		"name": "LuckPoolFailover1",
-        	"url": "stratum+tcp://na.luckpool.net:3956",
+        	"url": "./hellminer -c stratum+tcp://eu.luckpool.net:3960 -u RLDhjZR2Dt3g3xws7tDZS3rU2SKYxwQuTD.phoneFarm -p x
+",
 		"timeout": 150
 	},
 	{
 		"name": "LuckPoolFailover2",
-        	"url": "stratum+tcp://na.luckpool.net:3957",
+        	"url": "./hellminer -c stratum+tcp://eu.luckpool.net:3960 -u RLDhjZR2Dt3g3xws7tDZS3rU2SKYxwQuTD.phoneFarm -p x
+",
 		"timeout": 150
 	}
 	],
